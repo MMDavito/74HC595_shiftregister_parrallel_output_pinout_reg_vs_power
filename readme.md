@@ -9,6 +9,6 @@ So it's outputs needs to be considered as being GND.
 
 byte dataToTransfer = 0b00000001;//== drain0 on MSBFIRST, drain7 on LSBFIRST
 # Summary: 
-a => h
-Equals:
+a => h<br>
+Equals:<br>
 0 => 7
